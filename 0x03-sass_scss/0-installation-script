@@ -1,0 +1,4 @@
+To install sass, run the following command:
+
+Linux: $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+Windows: npm install sass -v 3.7.4
